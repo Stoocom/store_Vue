@@ -1,0 +1,56 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "Stoocom Line T-shirt",
+    "price": 22,
+    "urlImage": "img/Layer_2.jpg"
+  },
+  {
+    "id_product": 2,
+    "product_name": "Mango Shirt",
+    "price": 25,
+    "urlImage": "img/Layer_3.jpg"
+  },
+  {
+    "id_product": 3,
+    "product_name": "Warm Winter Jacket",
+    "price": 30,
+    "urlImage": "img/Layer_4.jpg"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Stoocom Line Dress",
+    "price": 12,
+    "urlImage": "img/Layer_5.jpg"
+  },
+  {
+    "id_product": 5,
+    "product_name": "Stoocom Line Spring Shirt",
+    "price": 15,
+    "urlImage": "img/Layer_6.jpg"
+  },
+  {
+    "id_product": 6,
+    "product_name": "Mango Line Dress",
+    "price": 35,
+    "urlImage": "img/Layer_7.jpg"
+  },
+  {
+    "id_product": 7,
+    "product_name": "Stoocom Line Pants",
+    "price": 18,
+    "urlImage": "img/Layer_8.jpg"
+  },
+  {
+    "id_product": 8,
+    "product_name": "Mango Line Sweater T-shirt",
+    "price": 45,
+    "urlImage": "img/Layer_9.jpg"
+  },
+  {
+    "id_product": 9,
+    "product_name": "Free LineT-shirt",
+    "price": 10,
+    "urlImage": "img/Layer_2.jpg"
+  }
+]

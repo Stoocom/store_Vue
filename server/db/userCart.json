@@ -1,0 +1,20 @@
+{
+    "amount": 47,
+    "countGoods": 3,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 1,
+            "product_name": "Stoocom Line T-shirt",
+            "price": 22,
+            "urlImage": "img/Layer_2.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 4,
+            "product_name": "Stoocom Line Dress",
+            "price": 12,
+            "urlImage": "img/Layer_5.jpg"
+        }
+    ]
+}
